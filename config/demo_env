@@ -1,0 +1,4 @@
+APP_PORT = YOUR_PORT_NUMBER
+
+# Create a new file in config folder with name ".env" and copy the contents of this file. 
+# Don't forget to replace YOUR_PORT_NUMBER with the specific port on which you want the application to run.
